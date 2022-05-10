@@ -27,7 +27,9 @@ button {
 #delete-btn {
     background-color: whitesmoke;
     color: #5f9341;
+    margin-top: 5px;
 }
+
 
 ul {
   list-style-type: none;
